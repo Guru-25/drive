@@ -1,7 +1,7 @@
 {
   "meilisearch": {
-    "host": "http://localhost:7700",
-    "api_key": "刚刚生成的密钥",
+    "host": "https://guru-25-meilisearch.hf.space",
+    "api_key": "33a0f1e141a8d0d2c8211e856a46b4e7",
     "index_prefix": ""
   }
 }
