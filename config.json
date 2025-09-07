@@ -1,0 +1,7 @@
+{
+  "meilisearch": {
+    "host": "http://localhost:7700",
+    "api_key": "刚刚生成的密钥",
+    "index_prefix": ""
+  }
+}
