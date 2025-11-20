@@ -1,4 +1,4 @@
-FROM xhofe/alist:latest
+FROM xhofe/alist:latest-aria2
 WORKDIR /opt/alist/
 
 EXPOSE 5244
